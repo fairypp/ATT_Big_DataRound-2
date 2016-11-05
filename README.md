@@ -4,5 +4,4 @@ This is the repository for AT&T big data regional fall case competition. Every d
 This repository includes 2 signed disclaimers, one project report, one PPT, and one tableau document.
 
 Contact information:
-Email:Chao.Li2@utdallas.edu
-Phone:9729771639
+Email:hxg142430@utdallas.edu, Chao.Li2@utdallas.edu
