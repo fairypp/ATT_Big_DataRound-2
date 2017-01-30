@@ -1,5 +1,5 @@
 # Round-2
-This is the repository for AT&T big data regional fall case competition. Every document is created by Hua Guo and Chao Li. All rights reserved.
+This is the repository for AT&T big data fall case competition round 2. Every document is created by Hua Guo and Chao Li. All rights reserved.
 
 This repository includes 2 signed disclaimers, one project report, one PPT, and one tableau document.
 
